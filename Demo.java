@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class Demo {
     public static void main(String[] args){
 
+        System.out.println("In java training");
+
         // If condition Example
 //        // byte, short, int , long, float, double, char, boolean
 //        int Number1 = sc.nextInt();  // -> Implicit
