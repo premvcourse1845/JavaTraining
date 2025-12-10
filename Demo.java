@@ -5,7 +5,7 @@ public class Demo {
 
         System.out.println("In java training");
 		// Testing Git changes.
-
+		// Test
         // If condition Example
 //        // byte, short, int , long, float, double, char, boolean
 //        int Number1 = sc.nextInt();  // -> Implicit
