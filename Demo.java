@@ -5,6 +5,7 @@ public class Demo {
 
         System.out.println("In java training");
 		// Testing Git changes.
+		// New Changes.
 
         // If condition Example
 //        // byte, short, int , long, float, double, char, boolean
