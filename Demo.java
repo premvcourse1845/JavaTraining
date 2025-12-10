@@ -4,7 +4,6 @@ public class Demo {
     public static void main(String[] args){
 
         System.out.println("In java training");
-		// Testing Git changes.
 
         // If condition Example
 //        // byte, short, int , long, float, double, char, boolean
